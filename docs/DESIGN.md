@@ -1,3 +1,3 @@
 # Html Template Design
 ## Elements
-* [Button](/elements/BUTTON.md)
+* [Button](elements/BUTTON.md)
