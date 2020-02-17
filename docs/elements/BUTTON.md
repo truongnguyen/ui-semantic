@@ -57,6 +57,7 @@
 </div>
 ```
 
+*angular syntax*
 ```html
 <ui-button class="labeled">
   <ui-button>
@@ -66,4 +67,47 @@
     2048
   </ui-link>
 </ui-button>
+```
+
+### Icon
+*semantic syntax*
+```html
+<button class="ui icon button">
+  <i class="cloud icon"></i>
+</button>
+```
+
+*angular syntax*
+```html
+<ui-button class="icon">
+  <ui-icon class="cloud"></ui-icon>
+</ui-button>
+```
+
+### Labeled Icon
+*semantic syntax*
+```html
+<button class="ui labeled icon button">
+  <i class="pause icon"></i>
+  Pause
+</button>
+```
+
+*angular syntax*
+```html
+<ui-button class="labeled icon">
+  <ui-icon class="pause"></ui-icon>
+  Pause
+</ui-button>
+```
+
+### Basic
+*semantic syntax*
+```html
+<button class="ui primary basic button">Primary</button>
+```
+
+*angular syntax*
+```html
+<ui-button class="primary basic">Primary<ui-button>
 ```
