@@ -111,3 +111,18 @@
 ```html
 <ui-button class="primary basic">Primary<ui-button>
 ```
+
+### Circular
+*semantic syntax*
+```html
+<button class="circular ui icon button">
+  <i class="icon settings"></i>
+</button>
+```
+
+*angular syntax*
+```html
+<ui-buttton class="circular icon">
+  <i class="icon settings">
+</ui-button>
+```
