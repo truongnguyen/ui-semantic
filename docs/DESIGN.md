@@ -6,9 +6,7 @@
 
 *original syntax*
 ```html
-<button class="ui button">
-  Button
-</button>
+<button class="ui button">Button</button>
 ```
 
 *angular syntax*
@@ -19,9 +17,7 @@
 ### Emphasis
 *original syntax*
 ```html
-<button class="ui primary button">
-  Primary
-</button>
+<button class="ui primary button">Primary</button>
 ```
 
 *angular syntax*
